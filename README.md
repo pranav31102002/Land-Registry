@@ -47,9 +47,6 @@ The **LandRegistry.sol** contract includes:
 - Integrate **IPFS** for storing land documents.
 - Add **Multi-signature Approval** for transactions.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 Developed by Pranav Bhosale.
 
