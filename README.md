@@ -49,4 +49,3 @@ The **LandRegistry.sol** contract includes:
 
 ## Author
 Developed by Pranav Bhosale.
-
